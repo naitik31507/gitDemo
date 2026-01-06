@@ -1,0 +1,32 @@
+MEAN STACK 
+     >> M: MongoDB (Database)
+     >> E: ExpressJS (backend)
+     >> A: Angular (Frontend)
+     >> N: NodeJS (backend)
+
+
+THREE PILLARS
+     >> HTML (hyper text markup language)
+     >> CSS  (cascading sytle sheets)
+     >> JS  (Java script)
+
+
+OTHER STACKS
+     >> Mean,mern,java full stack      
+
+
+WEB DEV. 
+     >> Building/Devlopers Team 
+     >> Testing Team (Manul Testers/Automated)
+     >> hosting Team (DevOPS Team)
+     >> Maintenance Team/Support Team 
+
+
+SDLC (software Devlopment Life Cycle ):
+     >> waterfull Model
+     >> Angular Model
+     >> Spiral Model
+     >> Incremental Manel 
+     >> Iterative Model 
+     >> V Shaped Model
+     >> RAD (Repid Application Development) Model 
